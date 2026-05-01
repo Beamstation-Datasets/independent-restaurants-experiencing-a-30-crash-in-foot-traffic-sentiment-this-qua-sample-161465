@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in New Hampshire
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `161465` |
 | Location | New Hampshire |
 | Category | Food and Drink |
-| Full dataset size | 163 records |
-| Free sample size | 16 records (9.82%) |
-| Last export | 2026-04-23T18:32:04.396584+00:00 |
+| Full dataset size | 181 records |
+| Free sample size | 18 records (9.94%) |
+| Last export | 2026-05-01T09:56:19.301943+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-161465/releases/download/sample-latest/beamstation_161465_food_and_drink-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
